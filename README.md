@@ -3,6 +3,8 @@
 This project is a low-cost, real-time Air Quality and Environmental Monitoring System developed using the Arduino Uno platform. It integrates a DHT11 temperature and humidity sensor, an MQ-series gas sensor, and a 128×64 SPI OLED display (SSD1306).
 
 The system provides live data visualization of atmospheric conditions and categorizes air quality based on gas concentration levels.
+<img width="240" height="326" alt="image" src="https://github.com/user-attachments/assets/9b7bd988-d652-46a9-99ba-c5d0bd809acd" />
+
 
 ---
 
